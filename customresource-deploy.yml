@@ -1,0 +1,7 @@
+apiVersion: nokube.xyz/v1
+kind: CustomResource
+metadata:
+  name: example-customresource
+spec:
+  message: hola
+  count: 10
